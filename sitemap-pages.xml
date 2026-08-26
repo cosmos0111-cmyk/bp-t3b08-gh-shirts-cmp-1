@@ -21,12 +21,77 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0347.html</loc>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0348.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0348.html</loc>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0358.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0037.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0013.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0014.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0015.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/guide-001-11ivrww.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/qa-002-ee82op.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0347.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -76,11 +141,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0358.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0359.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -106,11 +166,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0037.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0038.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -127,21 +182,6 @@
   </url>
   <url>
     <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0012.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0013.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0014.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0015.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -177,51 +217,6 @@
   </url>
   <url>
     <loc>https://airport-tip-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0022.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/guide-001-11ivrww.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts/qa-002-ee82op.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://airport-tip-choice.hardcoreroom.com/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
